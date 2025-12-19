@@ -1,0 +1,11 @@
+{
+  "name": "gitea",
+  "version": "1.0.0",
+  "description": "Skills for Gitea: tea CLI operations and Go SDK development",
+  "author": {
+    "name": "German Arutyunov"
+  },
+  "repository": "https://github.com/germanarutyunov/dev-skills",
+  "license": "MIT",
+  "keywords": ["gitea", "tea", "git", "forge", "sdk", "go", "cli", "api"]
+}
