@@ -13,6 +13,15 @@
       "author": {
         "name": "German Arutyunov"
       }
+    },
+    {
+      "name": "hetzner",
+      "description": "Skills for Hetzner Cloud: hcloud CLI operations and Go SDK development",
+      "version": "1.0.0",
+      "source": "./hetzner",
+      "author": {
+        "name": "German Arutyunov"
+      }
     }
   ]
 }

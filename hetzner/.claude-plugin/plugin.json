@@ -1,0 +1,11 @@
+{
+  "name": "hetzner",
+  "version": "1.0.0",
+  "description": "Skills for Hetzner Cloud: hcloud CLI operations and Go SDK development",
+  "author": {
+    "name": "German Arutyunov"
+  },
+  "repository": "https://github.com/gaarutyunov/dev-skills",
+  "license": "MIT",
+  "keywords": ["hetzner", "hcloud", "cloud", "infrastructure", "sdk", "go", "cli", "api", "servers", "vps"]
+}
