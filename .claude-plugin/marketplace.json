@@ -22,6 +22,15 @@
       "author": {
         "name": "German Arutyunov"
       }
+    },
+    {
+      "name": "bazel",
+      "description": "Skills for developing custom Bazel rules, toolchains, providers, and aspects",
+      "version": "1.0.0",
+      "source": "./bazel",
+      "author": {
+        "name": "German Arutyunov"
+      }
     }
   ]
 }
