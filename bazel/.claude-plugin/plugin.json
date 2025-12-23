@@ -1,0 +1,11 @@
+{
+  "name": "bazel",
+  "version": "1.0.0",
+  "description": "Skills for developing custom Bazel rules, toolchains, providers, and aspects",
+  "author": {
+    "name": "German Arutyunov"
+  },
+  "repository": "https://github.com/germanarutyunov/dev-skills",
+  "license": "MIT",
+  "keywords": ["bazel", "starlark", "rules", "toolchains", "providers", "aspects", "build"]
+}
